@@ -1,2 +1,3 @@
 # Mini Project
-analysis data telcom_revenue for study
+hello everyone, i make this project for study about analysis data
+if in this project have a mistake or problem, i am very happy to discuss about it
